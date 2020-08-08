@@ -3,6 +3,8 @@
 
  :rocket: *Project Developed during Rocketseat's Next Level Week 2.0. Made to connect teachers and students.*
   </div>
+  
+  ![](/.github/Landing.png)
 
 # :pushpin: Table of contents
 
